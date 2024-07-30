@@ -1,1 +1,1 @@
-Fix_My_Code_Challenge all the exercises will be handled here
+This is a repo for Fix my code challenge projects
